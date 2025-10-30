@@ -55,5 +55,14 @@ Open your browser and go to `http://localhost:8501` to see the tool in action, i
 Navigate tabs for specific insight; utilize sidebar panel for slicers on specific item or section.
 
 
-### Snapshot Demo
-
+## Snapshot Demo
+### Landing Page
+<img src="https://github.com/zF-9/SDKIT_/blob/f5adca5c6728f34d6f17cfa0147e8ed8ea8d6b98/images/home_overview.png"> 
+### Laptop(s) Overview
+<img src="https://github.com/zF-9/SDKIT_/blob/f5adca5c6728f34d6f17cfa0147e8ed8ea8d6b98/images/laptop_overview.png">
+### Desktop(s) Overview
+<img src="https://github.com/zF-9/SDKIT_/blob/f5adca5c6728f34d6f17cfa0147e8ed8ea8d6b98/images/desktop_overview.png">
+### Assest Overview
+<img src="https://github.com/zF-9/SDKIT_/blob/f5adca5c6728f34d6f17cfa0147e8ed8ea8d6b98/images/asset_overview.png">
+### Ticketing Record
+<img src="https://github.com/zF-9/SDKIT_/blob/f5adca5c6728f34d6f17cfa0147e8ed8ea8d6b98/images/tickets_overview.png">
